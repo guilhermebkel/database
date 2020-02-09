@@ -5,7 +5,7 @@
 -- Dumped from database version 12.1 (Ubuntu 12.1-1.pgdg18.04+1)
 -- Dumped by pg_dump version 12.1 (Ubuntu 12.1-1.pgdg18.04+1)
 
--- Started on 2020-02-09 15:39:30 -03
+-- Started on 2020-02-09 15:39:32 -03
 
 SET statement_timeout = 0;
 SET lock_timeout = 0;
@@ -18,7 +18,7 @@ SET xmloption = content;
 SET client_min_messages = warning;
 SET row_security = off;
 
--- Completed on 2020-02-09 15:39:30 -03
+-- Completed on 2020-02-09 15:39:32 -03
 
 --
 -- PostgreSQL database dump complete
